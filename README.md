@@ -108,21 +108,3 @@ The notebook walks through the following process:
 3. **Preprocess data** — Train/val split and create symlinks
 4. **Train model** — Transfer learning with early stopping and checkpointing
 5. **Evaluate** — Metrics and sample predictions on validation set
-
-## Model Weights
-
-Model weights are not included in this repository due to size (~95MB each). 
-
-To obtain trained weights:
-- **Train from scratch** using the notebook
-- **Download from Releases** (if available)
-
-## License
-
-The NIH Chest X-ray dataset is provided under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license.
-
-## References
-
-- Wang, X., et al. "ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks." CVPR 2017.
-- [NIH Clinical Center](https://nihcc.app.box.com/v/ChestXray-NIHCC)
-- [Kaggle Dataset](https://www.kaggle.com/datasets/nih-chest-xrays/data)
