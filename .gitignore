@@ -1,0 +1,76 @@
+# ===========================
+# Data directories (large files)
+# ===========================
+images/
+train/
+val/
+
+# ===========================
+# Model weights (use GitHub Releases or Hugging Face Hub)
+# ===========================
+*.pth
+
+# ===========================
+# Virtual environment
+# ===========================
+cxdd_env/
+venv/
+.venv/
+env/
+
+# ===========================
+# Python
+# ===========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ===========================
+# Jupyter Notebook
+# ===========================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ===========================
+# IDE / Editor
+# ===========================
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# ===========================
+# OS generated files
+# ===========================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ===========================
+# Logs and temp files
+# ===========================
+*.log
+*.tmp
+*.temp
