@@ -6,17 +6,20 @@ A multi-label classification model for detecting 14 thoracic diseases from chest
 
 The model detects the following 14 conditions:
 
-| Disease | Disease |
-|---------|---------|
-| Atelectasis | Mass |
-| Cardiomegaly | Nodule |
-| Consolidation | Pleural Thickening |
-| Edema | Pneumonia |
-| Effusion | Pneumothorax |
-| Emphysema | |
-| Fibrosis | |
-| Hernia | |
-| Infiltration | |
+- Atelectasis
+- Cardiomegaly
+- Consolidation
+- Edema
+- Effusion
+- Emphysema
+- Fibrosis
+- Hernia
+- Infiltration
+- Mass
+- Nodule
+- Pleural Thickening
+- Pneumonia
+- Pneumothorax
 
 ## Dataset
 
