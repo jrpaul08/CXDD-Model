@@ -9,6 +9,7 @@ val/
 # Model weights (use GitHub Releases or Hugging Face Hub)
 # ===========================
 *.pth
+model_artifacts/
 
 # ===========================
 # MLflow (runtime data)
